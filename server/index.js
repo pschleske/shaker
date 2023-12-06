@@ -8,8 +8,6 @@ import authCtrl from './controller/authCtrl.js'
 
 configDotenv();
 
-// const openai = new OpenAI({ apiKey: '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' });
-// const openaiApiKey = process.env.OPENAI_API_KEY;
 
 const app = express();
 
